@@ -1,0 +1,17 @@
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.DataAccess.deps.json
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.DataAccess.runtimeconfig.json
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.DataAccess.dll
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.DataAccess.pdb
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.Models.dll
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.Models.pdb
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.csproj.AssemblyReference.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.AssemblyInfoInputs.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.AssemblyInfo.cs
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.csproj.CoreCompileInputs.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.csproj.CopyComplete
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.dll
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\refint\MeTubApi.DataAccess.dll
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.pdb
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.DataAccess.genruntimeconfig.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\ref\MeTubApi.DataAccess.dll

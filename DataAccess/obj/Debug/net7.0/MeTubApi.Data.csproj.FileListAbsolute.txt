@@ -1,0 +1,12 @@
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.Data.deps.json
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.Data.dll
+D:\Demo\C#\MeTubApi\DataAccess\bin\Debug\net7.0\MeTubApi.Data.pdb
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.csproj.AssemblyReference.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.AssemblyInfoInputs.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.AssemblyInfo.cs
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.csproj.CoreCompileInputs.cache
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.dll
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\refint\MeTubApi.Data.dll
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\MeTubApi.Data.pdb
+D:\Demo\C#\MeTubApi\DataAccess\obj\Debug\net7.0\ref\MeTubApi.Data.dll

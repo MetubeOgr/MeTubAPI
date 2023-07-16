@@ -1,0 +1,12 @@
+D:\Demo\C#\MeTubApi\MeTubApi.Models\bin\Debug\net7.0\MeTubApi.Models.deps.json
+D:\Demo\C#\MeTubApi\MeTubApi.Models\bin\Debug\net7.0\MeTubApi.Models.dll
+D:\Demo\C#\MeTubApi\MeTubApi.Models\bin\Debug\net7.0\MeTubApi.Models.pdb
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.csproj.AssemblyReference.cache
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.AssemblyInfoInputs.cache
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.AssemblyInfo.cs
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.csproj.CoreCompileInputs.cache
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.dll
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\refint\MeTubApi.Models.dll
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\MeTubApi.Models.pdb
+D:\Demo\C#\MeTubApi\MeTubApi.Models\obj\Debug\net7.0\ref\MeTubApi.Models.dll
